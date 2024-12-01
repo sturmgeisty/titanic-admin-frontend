@@ -17,7 +17,7 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
+    "composite": true
   },
-  "include": ["vite.config.ts"],
-  "composite": true
+  "include": ["vite.config.ts"]
 }
